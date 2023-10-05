@@ -1,4 +1,4 @@
-# NCIS Background Check Analysis
+# NICS Background Check Analysis
 
 This repo contains an analysis of NICS firearm background check data and US Census data to identify trends in the prevelence of firearms in the US during 2006-2016. This project was submitted as a course requirement.
 
